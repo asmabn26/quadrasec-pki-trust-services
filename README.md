@@ -63,6 +63,26 @@ It combines a web-based interface with backend services for certificate generati
 - Authentication-related PHP components.
 - Responsive layouts using HTML, CSS, JavaScript, and Bootstrap.
 
+## Project Demonstration
+
+A demonstration of **QuadraSec — PKI & Digital Trust Services** is available to showcase the platform's interface and cryptographic functionalities.
+
+### Video Demonstration
+
+
+
+https://github.com/user-attachments/assets/788fd0bb-fdea-4577-84b4-1e555fa50f2d
+
+
+
+The demonstration presents the main workflows of the academic PKI platform, including its digital trust services and user interface.
+
+### Screenshots
+
+Screenshots of the application can be added to the `docs/screenshots/` directory to illustrate the platform's features.
+
+> This project is an academic proof of concept designed for educational purposes.
+
 ## Technology Stack
 
 | Category | Technologies |
