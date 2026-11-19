@@ -1,0 +1,11 @@
+.git/
+node_modules/
+internal-ca/
+uploads/
+.env
+*.pem
+*.key
+*.pfx
+*.crt
+*.log
+connection.php
